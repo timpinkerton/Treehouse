@@ -1,4 +1,9 @@
-#My personal readme for the class project. 
+#My personal readme file for the class project. 
+
+Here is a photo from my project files. 
+
+![jackie-wide](https://cloud.githubusercontent.com/assets/23015530/22857800/9b7979be-f07a-11e6-80c5-ec3a9c3f5974.jpg)
+
 
 # FrontEndWebDev-ClassProject
 Classroom activity for front-end web dev class
