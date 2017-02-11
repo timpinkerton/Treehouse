@@ -1,3 +1,5 @@
+#My personal readme for the class project. 
+
 # FrontEndWebDev-ClassProject
 Classroom activity for front-end web dev class
 
