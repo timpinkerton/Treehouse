@@ -1,4 +1,4 @@
-#My personal readme for the class project. 
+#My personal readme for the class project for the pizza restaurant. 
 
 # FrontEndWebDev-ClassProject
 Classroom activity for front-end web dev class
